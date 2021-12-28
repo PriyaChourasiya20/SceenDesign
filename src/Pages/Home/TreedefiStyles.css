@@ -1,0 +1,102 @@
+.container1 {
+  margin-top: 7%;
+}
+.why1 {
+  margin: 0px;
+  font-family: "Circular Std";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.33333;
+  color: rgb(33, 43, 54);
+  margin-left: 4%;
+}
+
+.p1 {
+  color: #919eab;
+  font-size: 22px;
+  max-width: 600px;
+  font-weight: normal;
+  line-height: 32px;
+  margin-left: 4%;
+  margin-right: auto;
+}
+
+.divWrapper {
+  padding: 70px;
+  background: #fff;
+  box-shadow: 0px 0px 32px #0bab640d;
+  align-items: center;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 23%;
+  margin-right: 5%;
+}
+
+.divWrapper1 {
+  padding: 70px;
+  background: #fff;
+  box-shadow: 0px 0px 32px #0bab640d;
+  align-items: center;
+  border-radius: 15px;
+  margin-top: 80px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+  margin-right: 20%;
+  /* margin-bottom: 10%; */
+}
+
+.FighText {
+  /* margin-top: -10%; */
+  color: #000;
+  font-size: 32px;
+  line-height: 34px;
+  margin-bottom: 25px;
+  letter-spacing: -0.56px;
+}
+
+.des1 {
+  color: #919eab;
+  font-size: 20px;
+  line-height: 32px;
+  margin-bottom: 25px;
+}
+
+.span1 {
+  width: 4%;
+  color: #0bab64;
+  display: inherit;
+  align-items: inherit;
+  justify-content: inherit;
+}
+
+.text2 {
+  color: #000;
+  font-size: 28px;
+  line-height: 34px;
+  margin-bottom: 25px;
+  letter-spacing: -0.56px;
+}
+
+.detail2 {
+  color: #919eab;
+  font-size: 22px;
+  line-height: 30px;
+  margin-right: 25%;
+}
+
+.button {
+  color: #0bab64;
+  border: 1px solid #0bab641a;
+  height: 40px;
+  padding: 4px;
+  font-size: 16px;
+  background: #ebf8f4;
+  line-height: 40px;
+  border-radius: 23px;
+  margin-bottom: 3px;
+  letter-spacing: -0.32px;
+  width: 18%;
+  text-align: center;
+}
